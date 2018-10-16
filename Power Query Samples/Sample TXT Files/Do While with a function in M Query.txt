@@ -1,0 +1,5 @@
+List.Generate( ()=>
+	  [Result= try f_GetData(1) otherwise null, Page = 1],
+	each [Result] <> null,
+	each [Result= try f_GetData([Page]+1) otherwise null, Page = [Page]+1],
+	each [Result])
