@@ -1,4 +1,4 @@
 # PowerBITR
-The repository is prepared to share powerbitr.com contents and some additional contents on GitHub.
+This repository is kept to archive and share the blog posts from my website [PowerBITR](https://www.powerbitr.com/).
 
 Do not hesitate to contribute...
